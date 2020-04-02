@@ -1,0 +1,65 @@
+drinkMap:
+    chai:
+        drinkName: chai
+        price: 4.0
+        ingredients:
+            - tea
+            - milk
+            - sugar
+            - water
+    coffee:
+        drinkName: coffee
+        price: 5.0
+        ingredients:
+            - coffee
+            - milk
+            - sugar
+            - water
+    banana smoothie:
+        drinkName: banana smoothie
+        price: 6.0
+        ingredients:
+            - banana
+            - milk
+            - sugar
+            - water
+    strawberry shake:
+        drinkName: strawberry shake
+        price: 7
+        ingredients:
+            - strawberries
+            - sugar
+            - milk
+            - water
+    mojito:
+        drinkName: mojito
+        price: 7.5
+        ingredients:
+            - lemon
+            - sugar
+            - water
+            - soda
+            - mint
+    soda water:
+        drinkName: soda water
+        price: 4
+        ingredients:
+            - soda
+            - water
+            - sugar
+ingredientMap:
+    milk:
+        name: milk
+        price: 1.0
+    sugar:
+        name: sugar
+        price: 0.5
+    soda:
+        name: soda
+        price: 0.5
+    mint:
+        name: mint
+        price: 0.5
+    water:
+        name: water
+        price: 0.5
